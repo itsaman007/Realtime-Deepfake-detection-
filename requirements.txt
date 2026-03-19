@@ -1,0 +1,26 @@
+numpy
+pillow
+pyyaml
+
+matplotlib
+pandas
+pyarrow
+wandb
+tqdm
+
+opencv-python
+scipy
+scikit-learn
+scikit-image
+einops
+timm
+torch
+torchvision
+torchinfo
+torchmetrics
+lightning
+fvcore
+
+# Optional tools for face preprocessing script
+imutils
+dlib
